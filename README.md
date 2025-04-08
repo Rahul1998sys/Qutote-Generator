@@ -33,7 +33,7 @@
 
 > Save your screenshot as `screenshot.png` in the project folder
 
-![Quote Generator Preview](./screenshot.png)
+![Quote Generator Preview](./screenshot1.png)
 
 ---
 
